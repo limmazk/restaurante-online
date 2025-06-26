@@ -1,5 +1,5 @@
 ### LINK DO PROJETO:
-(**https://limmazk.github.io/restaurante-online/)
+(https://limmazk.github.io/restaurante-online/)
 
 
 
