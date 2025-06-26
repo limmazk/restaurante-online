@@ -1,3 +1,8 @@
+### LINK DO PROJETO:
+(**https://limmazk.github.io/restaurante-online/)
+
+
+
 # 🍽️ Delícias Online - Sistema de Delivery de Comidas
 
 Um sistema moderno e responsivo para delivery de comidas, desenvolvido com HTML, CSS (Tailwind CSS) e JavaScript. O projeto oferece uma experiência completa de pedidos online com integração ao WhatsApp.
